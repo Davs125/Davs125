@@ -47,8 +47,8 @@ I am also confident in my skills with Data Structures and Algorithms, Object-Ori
 
 
 <p align="center">
-<a href="https://github.com/Davs125/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Davs125&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+<a href="https://github.com/SoyDavs/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SoyDavs&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
 </a>
  
 </p>
@@ -56,8 +56,8 @@ I am also confident in my skills with Data Structures and Algorithms, Object-Ori
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <p align="center">
-    <a href="https://github.com/Davs125"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Davs125&theme=tokyonight&hide_border=true"  width="520" alt="Davs125"/></a>
-<a href="https://github.com/Davs125"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Davs125&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="320"  alt="Davs125"/></a>
+    <a href="https://github.com/SoyDavs"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SoyDavs&theme=tokyonight&hide_border=true"  width="520" alt="SoyDavs"/></a>
+<a href="https://github.com/SoyDavs"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=SoyDavs&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="320"  alt="SoyDavs"/></a>
 </p>
 
 ## Connect with me 
